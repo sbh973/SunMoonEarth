@@ -1,5 +1,13 @@
 # Gitignore
 
+# === Custom Exclusions ===
+# Ignore these specific files
+Assets/Real Stars Skybox/StarSkybox04/CubemapStars.CubemapStars
+Assets/Real Stars Skybox/StarSkybox04Named/CubemapStarsNamed.cubemap
+Assets/Real Stars Skybox/StarSkybox04NamedConstell/CubemapStarsNamedConstellations.cubemap
+Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/GameAssembly.a
+Library/PackageCache/com.unity.burst@6aff1dd08a0c/.Runtime/libburst-llvm-19.dylib
+
 # === Unity Generated Folders ===
 [Ll]ibrary/
 [Tt]emp/
