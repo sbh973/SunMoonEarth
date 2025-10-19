@@ -27,3 +27,6 @@ UserSettings/
 # OS generated files
 .DS_Store
 Thumbs.db
+
+git rm --cached path/to/largefile
+git commit -m "Remove large file exceeding 100MB"
